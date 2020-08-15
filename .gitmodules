@@ -1,0 +1,3 @@
+[submodule "angularfileupload"]
+	path = angularfileupload
+	url = https://github.com/pixie21/Angular-SpringBoot.git
